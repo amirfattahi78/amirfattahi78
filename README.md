@@ -3,15 +3,13 @@
  
 const AmirhosseinFattahi = {     
     pronouns: "He" | "Him",     
-    aboutMe: "I'm fullstack developer ",  },
+    aboutMe: "I'm fullstack developer ",  }, 
     myStack: {   
-    
-     frontEnd: {             
+    frontEnd: {             
           Hyper Text Markup Language: ["html","css",],  
           Language:["javascript",],
           frameworks: ["react.js", "next.js",],
-          css frameworks:["bootstrap","tailwind",],
-          
+          css frameworks:["bootstrap","tailwind",],  
         },         
         backEnd: {             
           frameworks: ["Express.js", "fastify",],                   
