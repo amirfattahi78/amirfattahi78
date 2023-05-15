@@ -18,6 +18,8 @@
     
     }, 
     
+    myStack: {
+    
     frontEnd: {             
           Hyper Text Markup Language: ["html","css",],  
           Language:["javascript",],
