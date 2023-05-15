@@ -1,16 +1,17 @@
 - 👋 Hi, I’m Amir hossein Fattahi
  Web development 
  
-const AmirhosseinFattahi = {     
+const  AmirhosseinFattahi = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm fullstack developer "
-    language: ["javaScript"] // Node.js, react js        
+    language: ["javaScript", // "Node.js", "react js", ]      
     myStack: {   
+    
      frontEnd: {             
-          Hyper Text Markup Language: ["html,css"],  
-          Language:[javascript],
+          Hyper Text Markup Language: ["html","css",],  
+          Language:["javascript",],
           frameworks: ["react.js", "next.js",],
-          css frameworks:["bootstrap","tailwind"]
+          css frameworks:["bootstrap","tailwind",],
           
         },         
         backEnd: {             
