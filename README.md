@@ -29,5 +29,4 @@
           DataBases: ["MongoDB", "MySQL", "neo4j"],
           API: ["postman",, "openAPI"],
         }, 
-           funFact: "Bug's and Errors are my best friends" 
-},
+           funFact: "Bug's and Errors are my best friends"},
