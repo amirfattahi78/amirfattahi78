@@ -9,7 +9,7 @@
    
    
    
-   {
+   
    
    
    const AmirhosseinFattahi = {   
@@ -26,7 +26,7 @@
     
     
     frontEnd: { 
-    const AmirhosseinFattahi = {  
+    
     
           Hyper Text Markup Language: ["html","css",],  
           Language:["javascript",],
