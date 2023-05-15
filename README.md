@@ -4,7 +4,7 @@
 const amirhosseinFattahi = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm fullstack developer ",  
-    },
+   
     myStack: {   
     
      frontEnd: {             
