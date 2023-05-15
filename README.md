@@ -4,7 +4,7 @@
        
        
        
-   Const AmirhosseinFattahi = {     
+   const AmirhosseinFattahi = {     
    
    
     pronouns: "He" | "Him",     
