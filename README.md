@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir hossein Fattahi
  Web development 
  
-const  AmirhosseinFattahi = {     
+const amirhosseinFattahi = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm fullstack developer ",  
     },
@@ -20,7 +20,7 @@ const  AmirhosseinFattahi = {
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "MySQL", "neo4j"],
           API: ["postman",, "openAPI"],
-        },              
+        }, 
+           funFact: "Bug's and Errors are my best friends" 
+};const 
    },         
-   funFact: "Bug's and Errors are my best friends" 
-};
