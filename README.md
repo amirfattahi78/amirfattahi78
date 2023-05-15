@@ -22,5 +22,4 @@ const amirhosseinFattahi = {
           API: ["postman",, "openAPI"],
         }, 
            funFact: "Bug's and Errors are my best friends" 
-};const 
-   },         
+};
