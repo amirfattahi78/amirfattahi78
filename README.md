@@ -11,9 +11,11 @@
 
     
        myStack: {
+       
    const AmirhosseinFattahi = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm fullstack developer ",  }, 
+    
     frontEnd: {             
           Hyper Text Markup Language: ["html","css",],  
           Language:["javascript",],
