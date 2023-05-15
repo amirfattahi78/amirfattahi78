@@ -3,8 +3,8 @@
  
 const  AmirhosseinFattahi = {     
     pronouns: "He" | "Him",     
-    aboutMe: "I'm fullstack developer "
-    language: ["javaScript", // "Node.js", "react js", ]      
+    aboutMe: "I'm fullstack developer ",  
+    },
     myStack: {   
     
      frontEnd: {             
