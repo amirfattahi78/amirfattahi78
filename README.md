@@ -2,15 +2,6 @@
  Web development 
  
  
- 
- 
- 
-
- 
- 
-
-    
-       myStack: {
        
    const AmirhosseinFattahi = {     
     pronouns: "He" | "Him",     
