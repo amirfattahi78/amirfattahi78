@@ -3,10 +3,18 @@
        
         A little more about me...
    
-   const AmirhosseinFattahi = {    
+   const AmirhosseinFattahi = {   
+   
+   
     pronouns: "He" | "Him",    
+    
+    
     aboutMe: "I'm fullstack developer "}, 
+    
+    
+    
     myStack: {
+    
     
     frontEnd: { 
     
