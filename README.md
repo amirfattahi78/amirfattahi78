@@ -6,9 +6,7 @@
        
    const AmirhosseinFattahi = {    
    
-    pronouns: "He" | "Him",     
-    
-    
+    pronouns: "He" | "Him",    
     aboutMe: "I'm fullstack developer "}, 
     
     myStack: {
