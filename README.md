@@ -5,12 +5,10 @@
        
    const AmirhosseinFattahi = {     
     pronouns: "He" | "Him",     
-    aboutMe: "I'm fullstack developer ", 
-    
+    aboutMe: "I'm fullstack developer ",
     }, 
     
     myStack: {
-    
     frontEnd: {             
           Hyper Text Markup Language: ["html","css",],  
           Language:["javascript",],
